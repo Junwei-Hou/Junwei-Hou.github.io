@@ -2,7 +2,7 @@
 
 ### Online Project
 'COMPREHENSIVE MEDICAL REFORM REPORTING SYSTEM': http://111.53.60.182:17036/  
-                                                  super admin：admin\admin123  
+                                                  super admin account：admin\admin123  
                                                   city hospital test account：lvliang\123456 
                                                   township health center test account：xinyi\123456
 
